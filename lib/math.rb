@@ -9,7 +9,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  division = 34 / 5
+  division = 50 / 2 
   p division
 end
 
