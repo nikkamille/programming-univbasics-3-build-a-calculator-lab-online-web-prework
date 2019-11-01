@@ -19,7 +19,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  modulo = 34.0 / 5.0
+  modulo = 34 % 5 
   p modulo
 end
 
